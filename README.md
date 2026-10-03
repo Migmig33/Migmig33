@@ -1,6 +1,7 @@
 # Boiii
 
-Aspiring Software Engineer/AI Engineer based in Manila 
+SHIP FAST
+
 ### Stacks n Tools
 <p align="left">
   <!-- Frontend & Mobile -->
