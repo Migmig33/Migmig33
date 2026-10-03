@@ -37,10 +37,10 @@ Aspiring Software Engineer/AI Engineer based in Manila
 ## Github Commits
 <p align="center">
   <!-- Streak Stats Card (Shows Longest Streak, Current Streak, and Total Contributions) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Migmig33&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- General Stats Card (Shows total commits, PRs, issues, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Migmig33&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </p>
